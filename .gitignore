@@ -1,0 +1,29 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+**/.idea/
+*.iml
+*.iws
+*.ipr
+
+# Maven
+log/
+target/
+
+# Gradle
+.gradle
+build/
+reports/
+
+# Other
+*.log
+**/classes/*
+catalina.*/
+bin
+*.episode
+out/
+
+.DS_Store
